@@ -1,0 +1,18 @@
+.barra {
+    background-color: rgb(255, 255, 255);
+    border: 1px solid #2121213a;
+    border-radius: 10px;
+    width: 451px;
+    height: 110px;
+    left: 660px;
+    top: 22px;
+    position: relative;
+}
+#story{
+    width: 668px;
+    height: 340px;
+    top: -105px;
+    left: -98px;
+    position: relative;
+
+}

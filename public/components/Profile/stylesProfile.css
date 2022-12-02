@@ -1,0 +1,42 @@
+.Profile {
+    position: relative;
+    left: 650px;
+    width: 350px;
+    height: 76px;
+}
+
+#fotoperfil {
+    position: absolute;
+    border-radius: 50%;
+    width: 65px;
+    left: 510px;
+    top: -66px;
+}
+
+#username {
+    position: absolute;
+    color: #1e1e1e;
+    font-size: 18px;
+    font-family: helvetica;
+    top: -80px;
+    left: 592px;
+}
+
+#fullname{
+    color: #999999;
+    font-size: 15px;
+    font-family: helvetica;
+    position: absolute;
+    top: -57px;
+    left: 593px;
+}
+
+#cambiar {
+    color: rgb(0, 191, 255);
+    font-size: 15px;
+    font-family: helvetica;
+    font-weight: bold;
+    position: absolute;
+    top: -53px;
+    left: 750px;
+}

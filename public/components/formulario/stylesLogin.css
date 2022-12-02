@@ -1,0 +1,101 @@
+.Rect1 {    
+    width: 350px;
+    height: 500px;
+    top: 175px;
+    left: 1000px;
+    border: 2px solid;
+    background-color: #ffffff;
+    border-radius: 10px;
+    border-color: rgb(153, 153, 153);
+    position: relative;
+}
+
+#logo {
+    width: 200px;
+    left: 70px;
+    top: 70px;
+    position: absolute;
+}
+
+#email {
+    width: 250px;
+    height: 35px;
+    border-radius: 5px;
+    border-color: rgb(153, 153, 153);
+    font-family: Helvetica;
+    font-size: 10pt;
+    font-weight: medium;
+    top: 170px;
+    left: 45px;
+    position: absolute;
+}
+
+#contraseña {
+    width: 250px;
+    height: 35px;
+    border-radius: 5px;
+    border-color: rgb(153, 153, 153);
+    font-family: Helvetica;
+    font-size: 10pt;
+    font-weight: normal;
+    top: 220px;
+    left: 45px;
+    position: absolute;
+}
+
+#iniciarSesión {
+    width: 258px;
+    height: 30px;
+    top: 280px;
+    left: 45px;
+    border: none;
+    border-radius: 4px;
+    background-color: #007bff;
+    color: white;
+    position: absolute;
+}
+
+
+#pregunta {
+    font-family: Helvetica;
+    font-size: 11pt;
+    font-weight: 380;
+    top: 506px;
+    left: 1055px;
+    color: rgb(34, 34, 34);
+    position: absolute;
+}
+
+#registro {
+    background-color: transparent !important;
+    border: none;
+    font-family: Helvetica light;
+    font-size: 12pt;
+    font-weight: bold;
+    top: 516px;
+    left: 1215px;
+    text-decoration: none;
+    color: #007bff;
+    position: absolute;
+}
+
+#logininterfaces {
+    width: 475px;
+    top: 128px;
+    left: 450px;
+    position: absolute;
+}
+#appsabajo {
+    width: 300px;
+    top: 700px;
+    left: 1025px;
+    position: absolute;
+}
+#registrarp {
+    font-family: Helvetica;
+    font-size: 12pt;
+    top: 115px;
+    left: 130px;
+    position: absolute;
+    color: #007bff;
+}

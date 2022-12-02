@@ -1,0 +1,70 @@
+.Recomendados {
+    position: relative;
+    left: 1145px;
+    width: 350px;
+    height: 76px;
+    top: 10px;
+}
+#fotoperfil {
+    position: absolute;
+    border-radius: 50%;
+    width: 60px;
+    left: 20px;
+    top: 8px;
+}
+
+#username2{
+    position: absolute;
+    color: rgb(26, 26, 26);
+    font-size: 15px;
+    font-family: helvetica;
+    font-weight: bold;
+    top: 5px;
+    left: 95px;
+}
+.reco {
+    position: relative;
+    left: 1300px;
+    width: 350px;
+    height: 50px;
+    top: 185px;
+    display: flex;
+}
+
+#Sugerencias {
+    position: absolute;
+    color: rgb(143, 143, 143);
+    font-size: 15px;
+    font-family: helvetica;
+    left: -134px;
+}
+
+#verTodo {
+    position: absolute;
+    color: rgb(48, 48, 48);
+    font-size: 12px;
+    font-family: helvetica;
+    left: 175px;
+    top: 5px;
+}
+
+
+
+#userInfo {
+    color: rgb(110, 110, 110);
+    font-size: 12px;
+    font-family: helvetica;
+    font-weight: 100;
+    top: 30px;
+    left: 95px;
+    position: absolute;
+}
+
+#seguir {
+    color: deepskyblue;
+    font-size: 15px;
+    font-family: helvetica;
+    position: absolute;
+    top: 26px;
+    left: 350px;
+}
